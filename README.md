@@ -1,6 +1,6 @@
-# ugo
+# ugoMall
 
-> 传智播客小程序练习项目
+> 小程序练习项目
 
 ## Build Setup
 
@@ -35,4 +35,5 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
 # ugomall
